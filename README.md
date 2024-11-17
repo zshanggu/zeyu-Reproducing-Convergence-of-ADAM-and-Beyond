@@ -4,6 +4,14 @@ This is a study based on the paper [On The Convergence of ADAM and Beyond](https
 <br>
 There are 3 experiments presented in the paper and the implementation of these experiments can be found in:
 
+First, build environment from DockerFile.
+
+Then install necessary Python lib:
+
+```
+pip install -r requirement.txt
+```
+
 1.  Experiment 1, [here](https://github.com/rezazzr/Reproducing-Convergence-of-ADAM-and-Beyond/blob/master/synthetic_case_experiment.ipynb)
 2.  Experiment 2 and 3, [here](https://github.com/rezazzr/Reproducing-Convergence-of-ADAM-and-Beyond/blob/master/Logistic_Regression_and_Neural_network_experiment.ipynb)
 
